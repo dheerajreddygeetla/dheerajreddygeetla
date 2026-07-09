@@ -1,4 +1,4 @@
-## I am a passionate Full-Stack Developer | Enhancing my problem solving skills
+## I am a passionate Full-Stack Developer | Currently Enhancing problem solving skills
 
 
 ## 🌐 Socials:
