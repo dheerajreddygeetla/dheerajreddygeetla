@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tech Stack: 
-- ** C, C++, Java, Python, Html, Css, Js, React, MySql **.
+- **C, C++, Java, Python, Html, Css, Js, React, MySql**.
 
 ---
 
