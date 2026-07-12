@@ -5,7 +5,9 @@
 ---
 
 ## 🛠️ Tech Stack: 
-- ** C, C++, Java, Python, Html, Css, Js, React, MySql.
+- ** C, C++, Java, Python, Html, Css, Js, React, MySql **.
+
+---
 
 ## 📈 Coding Profiles
 - 🔗 [LeetCode](https://leetcode.com/u/dheerajreddy_g/)  
