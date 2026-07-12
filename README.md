@@ -11,7 +11,7 @@
 
 ---
 
-## 📈 Coding Profiles
+## 📈 Coding Profiles:
 - 🔗 [LeetCode](https://leetcode.com/u/dheerajreddy_g/)  
 - 🔗 [Codeforces](https://codeforces.com/profile/dheerajreddy_g)  
 - 🔗 [CodeChef](https://www.codechef.com/users/dheerajreddyg)  
