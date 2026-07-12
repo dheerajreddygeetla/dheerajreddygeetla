@@ -4,8 +4,10 @@
 
 ---
 
-## 🛠️ Tech Stack: 
-- **C, C++, Java, Python, Html, Css, Js, React, MySql**.
+## 🛠️ Tech Stack:
+- **Languages:** C, C++, Java, Python.
+- **Development:** Html, Css, Js, React, MySql.
+- **Other Skills:** CapCut, Blender, Davinci Resolve.
 
 ---
 
